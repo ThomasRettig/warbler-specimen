@@ -39,7 +39,8 @@ html {
 }
 
 body {
-  margin: 0;
+  margin: auto;
+  max-width: 800px;
   font-family: 'Warbler Text';
   background-color: #eee;
 }
