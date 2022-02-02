@@ -48,6 +48,16 @@ p {
   font-size: 40px;
 }
 
+hr {
+  max-width: 250px;
+  border: none;
+  border-top: 4px double black;
+  color: #333;
+  overflow: visible;
+  text-align: center;
+  height: 5px;
+}
+
 .cntr {
   text-align: center;
 }
